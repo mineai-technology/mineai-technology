@@ -45,8 +45,8 @@ Official enterprise workspace, core engine repositories, and system architecture
 
 # 📊 Organization Statistics:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mineai-technology&theme=dark&show_icons=true&is_org=true)](https://github.com/mineai-technology)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mineai-technology&theme=dark&show_icons=true&is_org=true&v=1)](https://github.com/mineai-technology)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mineai-technology&theme=dark)](https://github.com/mineai-technology)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mineai-technology&theme=dark&layout=compact&is_org=true)](https://github.com/mineai-technology)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mineai-technology&theme=dark&layout=compact&is_org=true&v=1)](https://github.com/mineai-technology)
