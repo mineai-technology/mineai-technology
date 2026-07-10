@@ -32,6 +32,9 @@ Official enterprise workspace, core engine repositories, and system architecture
 
 ## 👔 Executive Leadership
 * **Founder & CEO:** Bilal Mehtab
+* **Profile:** 18-Year-Old Tech AI Engineer & Full-Stack Web Developer
+* **Education:** Currently Pursuing Information Technology (IT) Diploma
+* **Nationality & Country:** Pakistani / Pakistan 🇵🇰
 * **Regional Initiative:** Aligned with Pakistan National AI initiatives — engineering sovereign, high-performance backend automation, memory-driven intelligence layers, and secure developer-first tooling.
 
 ## 🌐 Official Channels:
